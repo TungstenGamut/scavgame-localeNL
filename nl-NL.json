@@ -488,7 +488,6 @@
         "tacticalglovesdsc": "Een paar geavanceerde synthetische handschoenen. Beschermt uw handen effectief tegen fysiek trauma.",
         "geigercounter": "Geiger–Müllerteller",
         "geigercounterdsc": "Een elektronisch instrument om straling te meten met behulp van een buis gevuld met een mix van argon en methaan. Gebruik om aan of uit te zetten.",
-<<<<<<< HEAD
         "sleepingbag": "Slaapzak",
         "sleepingbagdsc": "Een geïsoleerde zak waar iemand in zou kunnen slapen. Gebruik om er in te slapen. Verhoogt slaapkwaliteit met 1 stap (tot maximaal Goed) en zorgt voor isolatie.",
         "liquidcentrifuge": "Vloeistofcentrifuge",
@@ -579,8 +578,6 @@
         "firestarterdsc": "Een instrument om een vuur te starten. Het kan dit door wrijving te maken tussen een draaiende houten stok en een stilliggend houten plaatje. Can 3 keer gebruikt worden.",
         "charcoal": "Houtskool",
         "charcoaldsc": "Een klein licht stuk houtskool. Kan gebruikt worden als brandbaar ingredient bij vervaardigen."
-=======
->>>>>>> 03fbc270c591b5a58ba159e911ed9ee1053c4c3a
     },
     "buildings": {
         "animalcorpse": "Dierenlichaam",
