@@ -1062,7 +1062,7 @@
         "hypertension1": "Hoge bloeddruk",
         "hypertension2": "Hypertensie",
         "hypertension3": "Ernstige hypertensie",
-        "hypertension4": "Hypertensive crisis",
+        "hypertension4": "Hypertensieve crisis",
         "overdose1": "Medicatie",
         "withdrawal1": "Zin in pijnstillers",
         "withdrawal2": "Ontwenning",
@@ -1099,7 +1099,38 @@
         "venom3dsc": "Je bloed bevat een grote hoeveelheid hemotoxine. Je bloed wordt verstopt en rode bloedcellen worden afgebroken. Let goed op voor symptomen.",
         "venom4dsc": "Je bloed gelijkt zich meer met marmelade dan iets waar je mee kan leven.",
         "fibrillation1dsc": "Abnormaal hartritme, waarschijnlijk veroorzaakt door ernstige uitoefening van het lichaam. Kan mogelijk verder verlopen als de oorzaak niet verholpen wordt. Kan gedefibrileert worden.",
-        "fibrillation2dsc": ""
+        "fibrillation2dsc": "Ernstig inconsistent hartritme, wat bloedstroming slecht laat lopen. Zal voortzetten tot fibrillatie als het niet behandeld wordt. Kan gedefibrilleerd worden.",
+        "venom1": "Lichte toxicose",
+        "venom2": "Toxicose",
+        "venom3": "Ernstige toxicose",
+        "venom4": "Vergiftigd",
+        "highbloodvolume1": "Gezwollen",
+        "highbloodvolume2": "Hypervolemie",
+        "highbloodvolume3": "Gevaarlijk hypervolemisch",
+        "highbloodvolume4": "Dodelijke hypervolemie",
+        "fibrillation3dsc": "Levensbedreigend chaotisch hartritme. Asystolie zal volgen. Alles gaat vreselijk mis.",
+        "palpitationsdsc": "Je voelt je hart bonzen. Ben je bang of gaat er iets vreselijk fout?",
+        "cardiacarrestdsc": "Asystolie. Als je om een of andere reden bij bewustzijn bent, bestaat er nog maar een kleine kans om dit te overleven door middel van defibrillatie. Anders zal je binnekort stikken.",
+        "hypoventilation1dsc": "Verlaagde ademhaling",
+        "hypoventilation2dsc": "Zeer lage ademhaling, laag genoeg om het zuurstofgehalte in het bloed te  verlagen.",
+        "hypotension1dsc": "Lichte verminderde bloeddruk. Je voelt je een beetje duizelig.",
+        "hypotension2dsc": "Redelijk verlaagde bloeddruk. Je ziet er bleek uit. Er is iets mis. Zoek de oorzaak uit.",
+        "hypotension3dsc": "Ernstig lage bloeddruk. Je valt bijna flauw. Behandeling is noodzakelijk. Fibrillatie kan ontstaan.",
+        "hypotension4dsc": "Dodelijk lage bloeddruk. Het lukt niet om bloed naar je organen te krijgen. De hersenen krijgen geen zuurstof meer.",
+        "stimulateddsc": "Stimulerende harddrugs in de bloedsomloop. Je voelt je klaar voor wat er komen gaat... Voor nu.",
+        "overhydrated1dsc": "Je hebt genoeg gedronken, je hebt geen drinken meer nodig voor een korte tijd, maar je krijgt wel sneller dorst. Bloeddruk verhoogd.",
+        "overhydrated2dsc": "Je hebt meer dan genoeg gedronken. Bewegen is iets lastiger. Je krijgt sneller dorst. Bloeddruk verhoogd.",
+        "overhydrated3dsc": "Overtollige waterinname. Je cellen zwellen op, waardoor er veel druk in je schedel ontstaat. De bloedsomloop in je hersenen gaat lastig. Je hebt hoofdpijn... Dorst vergroot. Bloeddruk sterk verhoogd.",
+        "hypertension1dsc": "Licht verhoogde bloeddruk.",
+        "hypertension2dsc": "Verhoogde bloeddruk. Je hebt hoofdpijn, je voelt je duizelig en je hebt een bloedneus.",
+        "hypertension3dsc": "Ernstig verhoogde bloeddruk, gevaarlijk in de buurt van het hebben van dodelijke gezondheidsproblemen. Je voelt je zeer slecht.",
+        "hypertension4dsc": "Levensbedreigend hoge bloeddruk. Kans op hemorragische beroerte. Check onmiddelijk de gezondheidsstatus, en let op symptomen van een hartaanval.",
+        "clawdamage1dsc": "Je klauwen zijn bot geworden door geruik, waardoor je minder schade kan aanrichten. Laat je klauwen rusten, of gebruik een gereedschap.",
+        "clawdamage2dsc": "Je klauwen zijn erg beschadigd door gebruik, waardoor je veel minder schade kan aanrichten. Je kan je handen beschadigen als je ze gebruikt zonder gereedschap.",
+        "keratinboosterdsc": "Je klauwen groeien drie keer zo snel terug. (<>)",
+        "impendingdoomdsc": "Je voelt je ineens zeer angstig. Je krijgt overal kippenvel. Het is alsof alles om je heen stil is.",
+        "horrifieddsc": "KAN NIET MEER NADENKEN. NIETS IS BELANGRIJK. REN VOOR JE LEVEN OF VECHT ERVOOR!",
+        "focuseddsc": "<i>We zullen allebei doodgaan vandaag. Maar de een eerder dan de ander."
     },
     "other": {
         "tutbasic1": "Welkom bij je laatste afsluitende training.",
@@ -1707,5 +1738,6 @@
         {
             "Item2": ""
         }
-    ]
+    ],
+    "pauseQuotes": []
 }
